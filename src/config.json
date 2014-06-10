@@ -1,0 +1,12 @@
+{
+  "API_KEY": "",
+  "Channels": [
+    {
+      "postProcessingScript": "",
+      "Channel": "",
+      "lastUpdate": ""
+    }
+  ],
+  "Destination": "",
+  "API_DOMAIN": "api.prowlapp.com"
+}
